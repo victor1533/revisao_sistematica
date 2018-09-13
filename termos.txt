@@ -1,0 +1,22 @@
+"Brain Computer Interface"
+"BCI"
+"Interface Cérebro-Computador"
+
+AND
+
+"Steady State Visually Evoked Potential"
+"SSVEP"
+
+
+AND
+
+"application"
+"android"
+"ios"
+
+
+Expressao previa:
+
+("Brain Computer Interface" OR "BCI") AND ("Steady State Visually Evoked Potential" OR "SSVEP") AND ("mobile" OR "ios" OR "android")
+
+

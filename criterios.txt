@@ -1,0 +1,10 @@
+Criterios aceitacao:
+Precisa fazer mencao ao BCI e SSVEP
+Precisa fazer menção a dispositivos moveis
+Precisa falar sobre aplicaçoes mobile utilizando SSVEP
+
+
+Criterios exclusao:
+
+Se falar sobre a aplicação de BCI a Humanoides ou androides
+ARtigos de antes de 2010
